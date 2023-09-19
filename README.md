@@ -1,2 +1,2 @@
-0~9の中からランダムに選ばれた３つの数字を当てるゲームです
-https://hitandblowver2.fly.dev/
+# 0~9の中からランダムに選ばれた３つの数字を当てるゲームです
+# https://hitandblowver2.fly.dev/
